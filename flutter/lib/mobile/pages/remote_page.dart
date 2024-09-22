@@ -870,7 +870,7 @@ class _KeyHelpToolsState extends State<KeyHelpTools> {
         inputModel.inputKey('VK_TAB');
       }),
       wrap('Home', () {
-        inputModel.inputKey('VK_HOME');
+        inputModel.inputKey('VK_ENTER');
       }),
       wrap('End', () {
         inputModel.inputKey('VK_END');
